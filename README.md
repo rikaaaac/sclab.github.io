@@ -1,1 +1,1 @@
-# sclab.github.io
+# sclab-site
